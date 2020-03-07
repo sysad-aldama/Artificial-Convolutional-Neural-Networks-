@@ -6,4 +6,5 @@ This notebook classifies the MNIST handwritten digit images as a number 0 - 9. W
 ### Requirements: pip install tensorflow keras numpy mnist matplotlib
 ***we recommend installing the latest version of Anaconda which can be downloaded at*** ***https://www.anaconda.com/distribution/#download-section (We are using Anaconda for python 3.x)***
 ### ***[Quaxis Research/Innovation]***
+## ***Special Thanks to youtube channel https://www.youtube.com/channel/UCbmb5IoBtHZTpYZCDBOC1CA please visit if you want to dive deeper. 
 
