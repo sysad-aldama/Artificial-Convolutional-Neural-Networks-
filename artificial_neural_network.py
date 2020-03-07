@@ -7,8 +7,8 @@
 # See all NOTE comments for descriptions
 # Email: sysad.aldama@gmail.com
 # Github: https://www.github.com/sysad-aldama/
-# Portal: https://www.quaxiscorp.com/
-# Acks: youtube, 
+# Portal: https://www.quaxiscorp.com/ [IN DEVELOPMEMT]
+# Acks: youtube, udemy and official docs
 
 import numpy as np
 import mnist
